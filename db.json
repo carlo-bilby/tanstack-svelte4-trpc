@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "id": "9730950678",
+      "title": "test2",
+      "content": "1123",
+      "published": true
+    },
+    {
+      "id": "0615732040",
+      "title": "test23",
+      "content": "11233",
+      "published": true
+    }
+  ],
+  "users": [
+    {
+      "id": 0,
+      "ip": "6480618899"
+    }
+  ],
+  "likes": []
+}
