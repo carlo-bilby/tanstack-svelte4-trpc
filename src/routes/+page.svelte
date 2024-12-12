@@ -10,7 +10,7 @@
     });
 </script>
 
-<h2>Basic Query but with SSR</h2>
+<h2>Basic Query</h2>
 <p>
     A very basic usage of TanStack Query. Notice how you have, a unified state
     management (data, loading statuses, errors, refetch, etc.) for queries out
